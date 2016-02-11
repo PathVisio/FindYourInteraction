@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FindYourInteraction
+Bundle-SymbolicName: org.pathvisio.findyourinteraction
+Bundle-Version: 1.0.0
+Bundle-Activator: org.pathvisio.findyourinteraction.Activator
+Import-Package: org.osgi.framework
+Require-Bundle: org.pathvisio.desktop,
+ org.pathvisio.core,
+ org.pathvisio.gui,
+ org.bridgedb
+
+
