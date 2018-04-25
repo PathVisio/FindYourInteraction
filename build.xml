@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <project name="org.pathvisio.findyourinteraction" default="install" basedir=".">
 
-  <property name="pathvisio.dir" value="../../../trunk"/>
+  <property name="pathvisio.dir" value="../pathvisio"/>
 	<property name="bundle.dest" value="dist"/>
 	<property name="jar.name" value="org.pathvisio.findyourinteraction.jar"/>
 
